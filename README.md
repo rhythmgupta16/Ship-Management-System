@@ -6,6 +6,9 @@ So in order to make it easier for the ship crew members as well as passengers we
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/41383322/68530201-4dfb9880-032c-11ea-80cf-9da4de2c451b.png)
+![image](https://user-images.githubusercontent.com/41383322/68530217-72f00b80-032c-11ea-8e6b-1839e868f045.png)
+![image](https://user-images.githubusercontent.com/41383322/68530220-7aafb000-032c-11ea-809a-d6e749a409ae.png)
+![image](https://user-images.githubusercontent.com/41383322/68530222-81d6be00-032c-11ea-8941-b0f9a86284d4.png)
 
 ## Contributing
 
